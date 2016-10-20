@@ -19,7 +19,7 @@ namespace MusicShop.Models
                    Artist = "Conductor",
                    Genre = "New Age",
                    Year = 2000,
-                   CoverUrl = "",
+                   CoverUrl = "https://upload.wikimedia.org/wikipedia/commons/6/6e/Vista_de_Iquique%2C_Chile%2C_2016-02-11%2C_DD_20.JPG",
                    Tracks = new List<Track>
                    {
                        new Track
